@@ -6,3 +6,4 @@ fi
 sum=`expr $1 + $2 + $3`
 echo $sum
 echo "End of the program"
+echo "added from local VM"
