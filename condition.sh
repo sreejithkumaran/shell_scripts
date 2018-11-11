@@ -5,3 +5,4 @@ exit 1
 fi
 sum=`expr $1 + $2 + $3`
 echo $sum
+echo "End of the program"
