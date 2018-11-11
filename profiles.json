@@ -1,0 +1,8 @@
+[
+	{"SSN":"001","age":"31","firstName":"Sreejith","gender":"Male","lastName":"Kumaran","nationality":"Indian"},
+	{"SSN":"002","age":"27","firstName":"Jeethi","gender":"Female","lastName":"Jayagopal","nationality":"Indian"},
+	{"SSN":"003","age":"40","firstName":"Steve","gender":"Male","lastName":"Austin","nationality":"US"},
+	{"SSN":"004","age":"40","firstName":"Dwayne","gender":"Male","lastName":"Johnson","nationality":"US"},
+	{"SSN":"005","age":"31","firstName":"Dyna","gender":"Female","lastName":"Hyden","nationality":"British"}
+	
+]
